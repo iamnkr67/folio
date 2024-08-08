@@ -1,10 +1,13 @@
+/* Change this file to get your personal Porfolio */
+
+// Website related settings
 const settings = {
   isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
 const seo = {
-  title: "Nitesh Kumar",
+  title: "Nitesh's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
@@ -27,6 +30,15 @@ const greeting = {
 };
 
 const socialMediaLinks = [
+  /* Your Social Media Link */
+  // github: "https://github.com/ashutosh1919",
+  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
+  // gmail: "ashutoshhathidara98@gmail.com",
+  // gitlab: "https://gitlab.com/ashutoshhathidara98",
+  // facebook: "https://www.facebook.com/laymanbrother.19/",
+  // twitter: "https://twitter.com/iamnkr67",
+  // instagram: "https://www.instagram.com/iamnkr67/"
+
   {
     name: "Github",
     link: "https://github.com/iamnkr67",
@@ -39,6 +51,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
+  // {
+  //   name: "YouTube",
+  //   link: "https://youtube.com/c/DevSense19",
+  //   fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
+  //   backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
+  // },
   {
     name: "Gmail",
     link: "mailto:nitesh.guptaji76@gmail.com",
@@ -83,22 +101,8 @@ const skills = {
             backgroundColor: "transparent",
           },
         },
-    //     {
-    //       skillName: "Keras",
-    //       fontAwesomeClassname: "simple-icons:keras",
-    //       style: {
-    //         backgroundColor: "white",
-    //         color: "#D00000",
-    //       },
-    //     },
-    //     {
-    //       skillName: "PyTorch",
-    //       fontAwesomeClassname: "logos-pytorch",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-        {
+    
+    {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
           style: {
@@ -106,12 +110,12 @@ const skills = {
             color: "#3776AB",
           },
         },
-    //     {
-    //       skillName: "Deeplearning",
-    //       imageSrc: "deeplearning_ai_logo.png",
-    //     },
-    //   ],
-    // },
+        {
+          skillName: "Deeplearning",
+          imageSrc: "deeplearning_ai_logo.png",
+        },
+      ],
+    },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
@@ -225,7 +229,13 @@ const skills = {
             color: "#FFCA28",
           },
         },
-      
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791",
+          },
+        },
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -346,9 +356,13 @@ const degrees = {
       subtitle: "12th BSEB",
       logo_path: "college.png",
       alt_name: "ASRL College",
-      duration: "2020 - 2022",
-      descriptions: ["⚡ I have done my class 11th and 12th from here."],
-      website_link: "#no_link",
+      duration: "2020 - 2023",
+      descriptions: [
+        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
+        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
+        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+      ],
+      website_link: "#",
     },
   ],
 };
@@ -357,14 +371,14 @@ const certifications = {
   certifications: [
     {
       title: "CSS3",
-      subtitle: "-Infosys SpringBoard",
+      subtitle: "Infosys SpringBoard",
       logo_path: "css.jpg",
       certificate_link:
         "https://drive.google.com/file/d/1J95ErqxIcVHL3xSUnrYJuFZdL7Esu80z/view?usp=sharing",
       alt_name: "Infosys",
       color_code: "skyblue",
     },
-    {
+     {
       title: "Angular",
       subtitle: "-Infosys SprigBoard",
       logo_path: "angular.png",
@@ -373,6 +387,15 @@ const certifications = {
       alt_name: "angular",
       color_code: "#00000099",
     },
+    // {
+    //   title: "Deep Learning",
+    //   subtitle: "- Andrew Ng",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+    //   alt_name: "deeplearning.ai",
+    //   color_code: "#00000099",
+    // },
     // {
     //   title: "ML on GCP",
     //   subtitle: "- GCP Training",

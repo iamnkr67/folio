@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Nitesh Kumar",
   logo_name: "NiteshKumar",
-  nickname: "vidhayak",
+  nickname: "nkr",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink: "https://drive.google.com/file/d/1bXRknv_hb7YvI/view?usp=sharing",

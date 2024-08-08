@@ -30,14 +30,7 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/iamnkr67",
-  // instagram: "https://www.instagram.com/iamnkr67/"
+ 
 
   {
     name: "Github",
@@ -315,22 +308,14 @@ const competitiveSites = {
       },
       profileLink: "http://codeforces.com/profile/iamnkr67",
     },
-    // {
-    //   siteName: "Hackerearth",
-    //   iconifyClassname: "simple-icons:hackerearth",
-    //   style: {
-    //     color: "#323754",
-    //   },
-    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
-    // },
-    // {
-    //   siteName: "Kaggle",
-    //   iconifyClassname: "simple-icons:kaggle",
-    //   style: {
-    //     color: "#20BEFF",
-    //   },
-    //   profileLink: "https://www.kaggle.com/laymanbrother",
-    // },
+    {
+      siteName: "Hackerearth",
+      iconifyClassname: "simple-icons:hackerearth",
+      style: {
+        color: "#323754",
+      },
+      profileLink: "https://www.hackerearth.com/@iamnkr67",
+    },
   ],
 };
 
@@ -358,9 +343,7 @@ const degrees = {
       alt_name: "ASRL College",
       duration: "2020 - 2023",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ I have done my higher secondary (11th - 12th) study for this college located in Siwan Dist. of Bihar."
       ],
       website_link: "#",
     },
@@ -371,7 +354,7 @@ const certifications = {
   certifications: [
     {
       title: "CSS3",
-      subtitle: "Infosys SpringBoard",
+      subtitle: "-Infosys SpringBoard",
       logo_path: "css.jpg",
       certificate_link:
         "https://drive.google.com/file/d/1J95ErqxIcVHL3xSUnrYJuFZdL7Esu80z/view?usp=sharing",

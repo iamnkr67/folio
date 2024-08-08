@@ -30,15 +30,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/iamnkr67",
-  // instagram: "https://www.instagram.com/iamnkr67/"
-
   {
     name: "Github",
     link: "https://github.com/iamnkr67",
@@ -51,12 +42,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  // {
-  //   name: "YouTube",
-  //   link: "https://youtube.com/c/DevSense19",
-  //   fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-  //   backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  // },
+  {
+    name: "YouTube",
+    link: "https://www.youtube.com/@iamnkr67",
+    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
+    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
+  },
   {
     name: "Gmail",
     link: "mailto:nitesh.guptaji76@gmail.com",
@@ -85,22 +76,22 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
-    // {
-    //   title: "Data Science & AI",
-    //   fileName: "DataScienceImg",
-    //   skills: [
-    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-    //     "⚡ Experience of working with Computer Vision and NLP projects",
-    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Tensorflow",
-    //       fontAwesomeClassname: "logos-tensorflow",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
+    {
+      title: "Data Science & AI",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
+        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
     //     {
     //       skillName: "Keras",
     //       fontAwesomeClassname: "simple-icons:keras",
@@ -116,14 +107,14 @@ const skills = {
     //         backgroundColor: "transparent",
     //       },
     //     },
-    //     {
-    //       skillName: "Python",
-    //       fontAwesomeClassname: "ion-logo-python",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //         color: "#3776AB",
-    //       },
-    //     },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
     //     {
     //       skillName: "Deeplearning",
     //       imageSrc: "deeplearning_ai_logo.png",
@@ -196,13 +187,6 @@ const skills = {
             color: "#2C8EBB",
           },
         },
-        // {
-        //   skillName: "Gatsby",
-        //   fontAwesomeClassname: "simple-icons:gatsby",
-        //   style: {
-        //     color: "#663399",
-        //   },
-        // },
         {
           skillName: "Flutter",
           fontAwesomeClassname: "simple-icons:flutter",
@@ -250,13 +234,7 @@ const skills = {
             color: "#FFCA28",
           },
         },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
+      
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -269,13 +247,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:docker",
           style: {
             color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
           },
         },
       ],

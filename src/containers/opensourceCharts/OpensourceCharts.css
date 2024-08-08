@@ -1,4 +1,4 @@
-/*/* .os-charts-header {
+.os-charts-header {
   font-size: 40px;
   line-height: 1.1;
   font-family: "Google Sans Regular";
@@ -14,13 +14,13 @@
   table-layout: fixed;
   width: 100%;
 }
-/* 
+
 .tb-item {
-    display: table-cell;
-} */
+  display: table-cell;
+}
 
 /* To remove horizontal scroll */
-/* .main-div {
+.main-div {
   width: 90%;
   margin: 0 auto;
 }
@@ -39,4 +39,4 @@
   .os-charts-body-div {
     flex-direction: column;
   }
-} */
+}

@@ -30,8 +30,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
- 
-
   {
     name: "Github",
     link: "https://github.com/iamnkr67",
@@ -94,8 +92,8 @@ const skills = {
             backgroundColor: "transparent",
           },
         },
-    
-    {
+
+        {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
           style: {
@@ -343,7 +341,7 @@ const degrees = {
       alt_name: "ASRL College",
       duration: "2020 - 2022",
       descriptions: [
-        "⚡ I have done my higher secondary (11th - 12th) study from this college located in Siwan Dist. of Bihar."
+        "⚡ I have done my higher secondary (11th - 12th) study from this college located in Siwan Dist. of Bihar.",
       ],
       website_link: "#",
     },
@@ -361,7 +359,7 @@ const certifications = {
       alt_name: "Infosys",
       color_code: "skyblue",
     },
-     {
+    {
       title: "Angular",
       subtitle: "-Infosys SprigBoard",
       logo_path: "angular.png",
@@ -383,8 +381,7 @@ const certifications = {
       title: "Machine Learning",
       subtitle: "- GeeksForGeeks",
       logo_path: "machinelearning.jpg",
-      certificate_link:
-        "GFG_Complete Machine Learning_Certificate.pdf",
+      certificate_link: "GFG_Complete Machine Learning_Certificate.pdf",
       alt_name: "machine-learning",
       color_code: "#0C9D5899",
     },
@@ -654,20 +651,6 @@ const publications = {
       description: "",
       url: "",
     },
-    // {
-    //   id: "mdp-diffusion",
-    //   name: "MDP-Diffusion",
-    //   createdAt: "2023-09-19T00:00:00Z",
-    //   description: "Blog published in Paperspace",
-    //   url: "https://blog.paperspace.com/mdp-diffusion/",
-    // },
-    // {
-    //   id: "consistency-models",
-    //   name: "Consistency Models",
-    //   createdAt: "2023-10-12T00:00:00Z",
-    //   description: "Blog published in Paperspace",
-    //   url: "https://blog.paperspace.com/consistency-models/",
-    // },
   ],
 };
 
@@ -677,7 +660,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "avatar.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.  ",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, and Cloud.  ",
   },
   blogSection: {
     title: "Blogs",

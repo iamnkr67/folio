@@ -379,15 +379,15 @@ const certifications = {
     //   alt_name: "deeplearning.ai",
     //   color_code: "#00000099",
     // },
-    // {
-    //   title: "ML on GCP",
-    //   subtitle: "- GCP Training",
-    //   logo_path: "google_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-    //   alt_name: "Google",
-    //   color_code: "#0C9D5899",
-    // },
+    {
+      title: "Machine Learning",
+      subtitle: "- GeeksForGeeks",
+      logo_path: "machinelearning.jpg",
+      certificate_link:
+        "GFG_Complete Machine Learning_Certificate.pdf",
+      alt_name: "machine-learning",
+      color_code: "#0C9D5899",
+    },
     // {
     //   title: "Data Science",
     //   subtitle: "- Alex Aklson",

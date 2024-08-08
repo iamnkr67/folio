@@ -379,19 +379,15 @@ const degrees = {
       website_link: "https://www.chitkarauniversity.edu.in/",
     },
 
-    // {
-    //   title: "",
-    //   subtitle: "M.S. in Computer Science",
-    //   logo_path: "iu_logo.png",
-    //   alt_name: "Indiana University Bloomington",
-    //   duration: "2021 - 2023",
-    //   descriptions: [
-    //     "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-    //     "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-    //     "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-    //   ],
-    //   website_link: "https://www.indiana.edu/",
-    // },
+    {
+      title: "ASRL COLLEGE SIWAN BIHAR",
+      subtitle: "12th BSEB",
+      logo_path: "college.png",
+      alt_name: "ASRL College",
+      duration: "2020 - 2022",
+      descriptions: [""],
+      website_link: "#",
+    },
   ],
 };
 
@@ -553,12 +549,12 @@ const experience = {
         //   color: "#9b1578",
         // },
         {
-          title: "No Working History",
+          title: "N/A",
           company: "N/A",
           company_url: "https://www.linkedin.com/iamnkr67/",
           logo_path: "cu_logo.png",
-          duration: "2022-2026",
-          location: "Baddi",
+          duration: "N/A",
+          location: "N/A",
           description: "N/A",
           color: "#fc1f20",
         },

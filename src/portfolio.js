@@ -290,13 +290,6 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
           skillName: "Figma",
           fontAwesomeClassname: "simple-icons:figma",
           style: {
@@ -308,13 +301,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:adobeillustrator",
           style: {
             color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
           },
         },
       ],
@@ -392,8 +378,9 @@ const degrees = {
       ],
       website_link: "https://www.chitkarauniversity.edu.in/",
     },
+
     // {
-    //   title: "Indiana University Bloomington",
+    //   title: "",
     //   subtitle: "M.S. in Computer Science",
     //   logo_path: "iu_logo.png",
     //   alt_name: "Indiana University Bloomington",

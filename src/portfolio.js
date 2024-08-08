@@ -357,22 +357,22 @@ const certifications = {
   certifications: [
     {
       title: "CSS3",
-      subtitle: "Infosys SpringBoard",
+      subtitle: "-Infosys SpringBoard",
       logo_path: "css.jpg",
       certificate_link:
         "https://drive.google.com/file/d/1J95ErqxIcVHL3xSUnrYJuFZdL7Esu80z/view?usp=sharing",
       alt_name: "Infosys",
       color_code: "skyblue",
     },
-    // {
-    //   title: "Deep Learning",
-    //   subtitle: "- Andrew Ng",
-    //   logo_path: "deeplearning_ai_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-    //   alt_name: "deeplearning.ai",
-    //   color_code: "#00000099",
-    // },
+    {
+      title: "Angular",
+      subtitle: "-Infosys SprigBoard",
+      logo_path: "angular.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1fOkTJpw12gVl9s9P2VFfhmc1rylqDvgj/view?usp=sharing",
+      alt_name: "angular",
+      color_code: "#00000099",
+    },
     // {
     //   title: "ML on GCP",
     //   subtitle: "- GCP Training",

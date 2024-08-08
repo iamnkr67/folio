@@ -341,9 +341,9 @@ const degrees = {
       subtitle: "12th BSEB",
       logo_path: "college.png",
       alt_name: "ASRL College",
-      duration: "2020 - 2023",
+      duration: "2020 - 2022",
       descriptions: [
-        "⚡ I have done my higher secondary (11th - 12th) study for this college located in Siwan Dist. of Bihar."
+        "⚡ I have done my higher secondary (11th - 12th) study from this college located in Siwan Dist. of Bihar."
       ],
       website_link: "#",
     },

@@ -385,8 +385,8 @@ const degrees = {
       logo_path: "college.png",
       alt_name: "ASRL College",
       duration: "2020 - 2022",
-      descriptions: [""],
-      website_link: "#",
+      descriptions: ["⚡ I have done my class 11th and 12th from here."],
+      website_link: "#no_link",
     },
   ],
 };

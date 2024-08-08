@@ -24,8 +24,7 @@ const greeting = {
   nickname: "vidhayak",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1bXRknv_hb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/iamnkr67/",
   githubProfile: "https://github.com/iamnkr67",
 };
@@ -698,26 +697,26 @@ const publicationsHeader = {
 const publications = {
   data: [
     {
-      id: "neuro-symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
+      id: "",
+      name: "",
+      createdAt: "",
+      description: "",
+      url: "",
     },
-    {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
-      createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
-    },
-    {
-      id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
-    },
+    // {
+    //   id: "mdp-diffusion",
+    //   name: "MDP-Diffusion",
+    //   createdAt: "2023-09-19T00:00:00Z",
+    //   description: "Blog published in Paperspace",
+    //   url: "https://blog.paperspace.com/mdp-diffusion/",
+    // },
+    // {
+    //   id: "consistency-models",
+    //   name: "Consistency Models",
+    //   createdAt: "2023-10-12T00:00:00Z",
+    //   description: "Blog published in Paperspace",
+    //   url: "https://blog.paperspace.com/consistency-models/",
+    // },
   ],
 };
 
@@ -727,13 +726,13 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "avatar.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.  ",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://medium.com/iamnkr67",
+    link: "https://hashnode.com/@iamnkr67",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {

@@ -385,69 +385,17 @@ const certifications = {
       alt_name: "machine-learning",
       color_code: "#0C9D5899",
     },
-    // {
-    //   title: "Data Science",
-    //   subtitle: "- Alex Aklson",
-    //   logo_path: "ibm_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-    //   alt_name: "IBM",
-    //   color_code: "#1F70C199",
-    // },
-    // {
-    //   title: "Big Data",
-    //   subtitle: "- Kim Akers",
-    //   logo_path: "microsoft_logo.png",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-    //   alt_name: "Microsoft",
-    //   color_code: "#D83B0199",
-    // },
-    // {
-    //   title: "Advanced Data Science",
-    //   subtitle: "- Romeo Kienzler",
-    //   logo_path: "ibm_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-    //   alt_name: "IBM",
-    //   color_code: "#1F70C199",
-    // },
-    // {
-    //   title: "Advanced ML on GCP",
-    //   subtitle: "- GCP Training",
-    //   logo_path: "google_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-    //   alt_name: "Google",
-    //   color_code: "#0C9D5899",
-    // },
-    // {
-    //   title: "DL on Tensorflow",
-    //   subtitle: "- Laurence Moroney",
-    //   logo_path: "deeplearning_ai_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-    //   alt_name: "deeplearning.ai",
-    //   color_code: "#00000099",
-    // },
-    // {
-    //   title: "Fullstack Development",
-    //   subtitle: "- Jogesh Muppala",
-    //   logo_path: "coursera_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-    //   alt_name: "Coursera",
-    //   color_code: "#2A73CC",
-    // },
-    // {
-    //   title: "Kuberenetes on GCP",
-    //   subtitle: "- Qwiklabs",
-    //   logo_path: "gcp_logo.png",
-    //   certificate_link:
-    //     "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-    //   alt_name: "GCP",
-    //   color_code: "#4285F499",
-    // },
+
+    {
+      title: "English for Science, Technology, Engineering, and Mathematics",
+      subtitle: "- Jack Sullivann & Alyssa Swanson",
+      logo_path: "coursera_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/records/HXWZRG7HSA64",
+      alt_name: "Coursera",
+      color_code: "#2A73CC",
+    },
+
     {
       title: "Cybersecurity Analyst Job Simulation",
       subtitle: "- Tom Brunskill (Forage)",

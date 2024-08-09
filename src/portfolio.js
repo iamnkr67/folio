@@ -464,7 +464,7 @@ const certifications = {
       certificate_link:
         "https://www.cloudskillsboost.google/public_profiles/a07ecde2-e6d7-4e14-bbb8-c178e5f6c1cf",
       alt_name: "GCP",
-      color_code: "#4285F499",
+      color_code: "#4285F466",
     },
   ],
 };

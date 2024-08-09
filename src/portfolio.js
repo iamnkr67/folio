@@ -448,15 +448,15 @@ const certifications = {
     //   alt_name: "GCP",
     //   color_code: "#4285F499",
     // },
-    // {
-    //   title: "Cryptography",
-    //   subtitle: "- Saurabh Mukhopadhyay",
-    //   logo_path: "nptel_logo.png",
-    //   certificate_link:
-    //     "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-    //   alt_name: "NPTEL",
-    //   color_code: "#FFBB0099",
-    // },
+    {
+      title: "Cybersecurity Analyst Job Simulation",
+      subtitle: "- Tom Brunskill (Forage)",
+      logo_path: "tata.png",
+      certificate_link:
+        "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/gmf3ypEXBj2wvfQWC_Tata%20Group_YXKdtashHGL4WyTFw_1723182850675_completion_certificate.pdf",
+      alt_name: "TATA FORAGE",
+      color_code: "#FFBB0099",
+    },
     // {
     //   title: "Cloud Architecture",
     //   subtitle: "- Qwiklabs",

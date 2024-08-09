@@ -457,15 +457,15 @@ const certifications = {
       alt_name: "TATA FORAGE",
       color_code: "#FFBB0099",
     },
-    // {
-    //   title: "Cloud Architecture",
-    //   subtitle: "- Qwiklabs",
-    //   logo_path: "gcp_logo.png",
-    //   certificate_link:
-    //     "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-    //   alt_name: "GCP",
-    //   color_code: "#4285F499",
-    // },
+    {
+      title: "Cloud Architecture",
+      subtitle: "- Qwiklabs",
+      logo_path: "gcp_logo.png",
+      certificate_link:
+        "https://www.cloudskillsboost.google/public_profiles/a07ecde2-e6d7-4e14-bbb8-c178e5f6c1cf",
+      alt_name: "GCP",
+      color_code: "#4285F499",
+    },
   ],
 };
 
@@ -480,39 +480,6 @@ const experience = {
       title: "Work",
       work: true,
       experiences: [
-        // {
-        //   title: "Machine Learning Engineer",
-        //   company: "TikTok Inc.",
-        //   company_url: "https://www.tiktok.com/en/",
-        //   logo_path: "tiktok_logo.png",
-        //   duration: "June 2023 - Present",
-        //   location: "San Jose, CA, USA",
-        //   description:
-        //     "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
-        //   color: "#000000",
-        // },
-        // {
-        //   title: "Associate AI Engineer",
-        //   company: "Legato Health Technology",
-        //   company_url: "https://legatohealthtech.com/",
-        //   logo_path: "legato_logo.png",
-        //   duration: "June 2020 - Aug 2021",
-        //   location: "Hyderabad, Telangana",
-        //   description:
-        //     "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-        //   color: "#0879bf",
-        // },
-        // {
-        //   title: "Android and ML Developer",
-        //   company: "Muffito Incorporation",
-        //   company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-        //   logo_path: "muffito_logo.png",
-        //   duration: "May 2018 - Oct 2018",
-        //   location: "Pune, Maharashtra",
-        //   description:
-        //     "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-        //   color: "#9b1578",
-        // },
         {
           title: "N/A",
           company: "N/A",
@@ -550,18 +517,6 @@ const experience = {
             "I participated in the Yamaha AI 2.0 Hackathon as a first-year student, where I gained valuable insights into AI and ML by creating Grapes instances. Although I didn't win, but the experience significantly broadened my understanding of these technologies (AI/ML).",
           color: "#ee3c26",
         },
-        // {
-        //   title: "Data Science Intern",
-        //   company: "Intel Indexer LLC",
-        //   company_url:
-        //     "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-        //   logo_path: "intel_logo.jpg",
-        //   duration: "Nov 2018 - Dec 2018",
-        //   location: "Work From Home",
-        //   description:
-        //     "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-        //   color: "#0071C5",
-        // },
       ],
     },
     {
@@ -575,7 +530,7 @@ const experience = {
           duration: "June 2023 - Current",
           location: "Baddi, Himachal Pradesh",
           description:
-            "Being an NSS volunteer I always feel proud of me that I got oppourtunity to connect with community and its problem.I also worked as a core member in NSS as Photo Documentation Head.Also attended 7 Days NSS camp with NSS founder Mr.KrishnaKumar Gupta.",
+            "Being an NSS volunteer I always feel proud of me that I got oppourtunity to connect with community and its problem.I also worked as a core member in NSS as Photo Documentation Head. Also attended 7 Days NSS camp with NSS founder Mr.Krishna Kumar Gupta.",
           color: "#4285F4",
         },
         {

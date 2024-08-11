@@ -585,7 +585,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "WhatsApp",
-    link: "https://wa.me/+918092925661?text=Hi%21%20Nitesh",
+    subtitle: "whatsapp.jpg",
   },
 };
 

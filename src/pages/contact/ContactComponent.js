@@ -117,7 +117,7 @@ class Contact extends Component {
                   className="contact-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {phoneSection["subtitle"]}
+                  {phoneSection["link"]}
                 </p>
                 <div className="address-btn-div">
                   <Button

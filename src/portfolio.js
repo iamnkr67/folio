@@ -563,12 +563,12 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "avatar.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, and Cloud.  ",
+      "I am available on almost every social media. You can message me, and I will reply within 24 hours. I can help you with ML, AI, React, Android, and Cloud.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
+      "I like to document some of my experiences in my professional career journey as well as share technical knowledge.",
     link: "https://hashnode.com/@iamnkr67",
     avatar_image_path: "blogs_image.svg",
   },
@@ -584,8 +584,8 @@ const contactPageData = {
     location_map_link: "https://maps.app.goo.gl/wTZabHyV2wwdX7yk9",
   },
   phoneSection: {
-    title: "Call Me",
-    subtitle: "+91 8092925661",
+    title: "WhatsApp",
+    link: "https://wa.me/+918092925661?text=Hi%21%20Nitesh",
   },
 };
 

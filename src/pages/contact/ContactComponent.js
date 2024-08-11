@@ -117,12 +117,7 @@ class Contact extends Component {
                   className="contact-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  <a href="https://wa.me/+918092925661?text=Hi%21%20Nitesh">
-                    <img
-                      src={require(`../../assets/images/${phoneSection["subtitle"]}`)}
-                      alt="whatsapp"
-                    />
-                  </a>
+                  {phoneSection["subtitle"]}
                 </p>
                 <div className="address-btn-div">
                   <Button

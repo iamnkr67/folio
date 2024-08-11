@@ -584,8 +584,8 @@ const contactPageData = {
     location_map_link: "https://maps.app.goo.gl/wTZabHyV2wwdX7yk9",
   },
   phoneSection: {
-    title: "WhatsApp",
-    subtitle: "whatsapp.jpg",
+    title: "",
+    subtitle: "",
   },
 };
 

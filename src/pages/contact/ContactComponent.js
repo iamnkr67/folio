@@ -118,10 +118,9 @@ class Contact extends Component {
                   style={{ color: theme.secondaryText }}
                 >
                   <a href="https://wa.me/+918092925661?text=Hi%21%20Nitesh">
-                    {" "}
                     <img
                       src={require(`../../assets/images/${phoneSection["subtitle"]}`)}
-                      alt=""
+                      alt="whatsapp"
                     />
                   </a>
                 </p>

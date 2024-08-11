@@ -21,6 +21,28 @@
           "iconifyClass": "logos-javascript"
         }
       ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Calculator",
+      "createdAt": "2024-06-09T08:30:54Z",
+      "url": "https://iamnkr67.github.io/Calculator/",
+      "description": "🔥 Simple Calculator WebApp",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
     }
   ]
 }

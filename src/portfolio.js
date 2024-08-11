@@ -584,8 +584,8 @@ const contactPageData = {
     location_map_link: "https://maps.app.goo.gl/wTZabHyV2wwdX7yk9",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Call Me",
+    subtitle: "+91 8092925661",
   },
 };
 

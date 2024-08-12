@@ -78,9 +78,9 @@ class Contact extends Component {
               </div>
               <div className="blog-heading-img-div">
                 {/* <img
-											src={require(`../../assets/images/${blogSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
+                        src={require(`../../assets/images/${blogSection["avatar_image_path"]}`)}
+                        alt=""
+                      /> */}
                 <BlogsImg theme={theme} />
               </div>
             </div>
@@ -89,9 +89,9 @@ class Contact extends Component {
             <div className="address-heading-div">
               <div className="contact-heading-img-div">
                 {/* <img
-											src={require(`../../assets/images/${addressSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
+                        src={require(`../../assets/images/${addressSection["avatar_image_path"]}`)}
+                        alt=""
+                      /> */}
                 <AddressImg theme={theme} />
               </div>
               <div className="address-heading-text-div">
@@ -117,7 +117,17 @@ class Contact extends Component {
                   className="contact-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {phoneSection["whatsapp_link"]}
+                  <a
+                    href={phoneSection["whatsapp_link"]}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src={require(`../../assets/images/whatsapp.png`)}
+                      alt="WhatsApp"
+                      className="whatsapp-image"
+                    />
+                  </a>
                 </p>
 
                 <div className="address-btn-div">

@@ -118,18 +118,6 @@ class Contact extends Component {
                   style={{ color: theme.secondaryText }}
                 >
                   {phoneSection["subtitle"]}
-
-                  <a
-                    href={phoneSection["whatsapp_link"]}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <img
-                      src={require(`../../assets/images/whatsapp.png`)}
-                      alt="WhatsApp"
-                      className="whatsapp-image"
-                    />
-                  </a>
                 </p>
                 <div className="address-btn-div">
                   <Button

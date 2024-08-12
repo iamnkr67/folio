@@ -126,7 +126,7 @@ class Contact extends Component {
                       src={require(`../../assets/images/whatsapp.png`)}
                       alt="WhatsApp"
                       className="whatsapp-image"
-                      style={{ width: "50px", height: "50px" }}
+                      style={{ width: "70px", height: "70px" }}
                     />
                   </a>
                 </p>

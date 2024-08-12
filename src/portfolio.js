@@ -584,8 +584,9 @@ const contactPageData = {
     location_map_link: "https://maps.app.goo.gl/wTZabHyV2wwdX7yk9",
   },
   phoneSection: {
-    title: "Phone no:",
-    subtitle: "+91 8092925661",
+    title: "",
+    subtitle: "",
+    whatsapp_link: `https://wa.me/+918092925661?text=Hi, Nitesh`,
   },
 };
 

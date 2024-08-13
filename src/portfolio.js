@@ -372,7 +372,7 @@ const experience = {
           title: "N/A",
           company: "N/A",
           company_url: "https://www.linkedin.com/iamnkr67/",
-          logo_path: "i.png",
+          logo_path: "na.png",
           duration: "N/A",
           location: "N/A",
           description: "N/A",

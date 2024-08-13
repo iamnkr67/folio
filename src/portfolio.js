@@ -368,15 +368,15 @@ const certifications = {
       alt_name: "angular",
       color_code: "#00000099",
     },
-    // {
-    //   title: "Deep Learning",
-    //   subtitle: "- Andrew Ng",
-    //   logo_path: "deeplearning_ai_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-    //   alt_name: "deeplearning.ai",
-    //   color_code: "#00000099",
-    // },
+    {
+      title: "Bootstrap 4",
+      subtitle: "- Thirumala Arohi",
+      logo_path: "bootstrap.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1-ozqYASPK7XzprHNEPSO-mz5Zy5AbEic/view?usp=sharing",
+      alt_name: "deeplearning.ai",
+      color_code: "#00000099",
+    },
     {
       title: "Machine Learning",
       subtitle: "- GeeksForGeeks",

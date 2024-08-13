@@ -24,7 +24,7 @@ const greeting = {
   nickname: "nkr",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink: "https://drive.google.com/file/d/1bXRknv_hb7YvI/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1FyYVYIPKQdo6GjlgtpJ36cQRB7ovqfHV/view?usp=drivesdk",
   portfolio_repository: "https://github.com/iamnkr67/",
   githubProfile: "https://github.com/iamnkr67",
 };
@@ -502,7 +502,7 @@ const contactPageData = {
   contactSection: {
     title: "Contact Me",
     profile_image_path: "avatar.png",
-    resume_link : "https://drive.google.com/file/d/1FyYVYIPKQdo6GjlgtpJ36cQRB7ovqfHV/view?usp=drivesdk"
+  
     description:
       "I am available on almost every social media. You can message me, and I will reply within 24 hours. I can help you with ML, AI, React, Android, and Cloud.",
   },

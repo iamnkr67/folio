@@ -300,6 +300,15 @@ const certifications = {
       color_code: "skyblue",
     },
     {
+      title: "JavaScript",
+      subtitle: "-Thirumala Arohi",
+      logo_path: "jsLogo.jpg",
+      certificate_link:
+        "https://drive.google.com/file/d/1AvSNZv4O9BKN89NL93Ms8c5XMoBk71Uo/view?usp=sharing",
+      alt_name: "Javascript - Infosys SpringBoard",
+      color_code: "#00001099",
+    },
+    {
       title: "Angular",
       subtitle: "-Infosys SprigBoard",
       logo_path: "angular.png",

@@ -24,7 +24,8 @@ const greeting = {
   nickname: "nkr",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink: "https://drive.google.com/file/d/1FyYVYIPKQdo6GjlgtpJ36cQRB7ovqfHV/view?usp=drivesdk",
+  resumeLink:
+    "https://drive.google.com/file/d/1FyYVYIPKQdo6GjlgtpJ36cQRB7ovqfHV/view?usp=drivesdk",
   portfolio_repository: "https://github.com/iamnkr67/",
   githubProfile: "https://github.com/iamnkr67",
 };
@@ -318,6 +319,15 @@ const certifications = {
       color_code: "#00000099",
     },
     {
+      title: "HTML5",
+      subtitle: "-Infosys SprigBoard",
+      logo_path: "html5logo.jpg",
+      certificate_link:
+        "https://drive.google.com/file/d/1SmsKFLHg3gf-IZB-9pkWGmlryeEhL5ns/view?usp=sharing",
+      alt_name: "HTML5",
+      color_code: "#01f00099",
+    },
+    {
       title: "Bootstrap 4",
       subtitle: "- Thirumala Arohi",
       logo_path: "bootstrap.png",
@@ -511,7 +521,7 @@ const contactPageData = {
   contactSection: {
     title: "Contact Me",
     profile_image_path: "avatar.png",
-  
+
     description:
       "I am available on almost every social media. You can message me, and I will reply within 24 hours. I can help you with ML, AI, React, Android, and Cloud.",
   },

@@ -86,13 +86,13 @@ const skills = {
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
+        // {
+        //   skillName: "Tensorflow",
+        //   fontAwesomeClassname: "logos-tensorflow",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //   },
+        // },
 
         {
           skillName: "Python",
@@ -102,10 +102,10 @@ const skills = {
             color: "#3776AB",
           },
         },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
+        // {
+        //   skillName: "Deeplearning",
+        //   imageSrc: "deeplearning_ai_logo.png",
+        // },
       ],
     },
     {
@@ -131,13 +131,13 @@ const skills = {
             color: "#1572B6",
           },
         },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
+        // {
+        //   skillName: "Sass",
+        //   fontAwesomeClassname: "simple-icons:sass",
+        //   style: {
+        //     color: "#CC6699",
+        //   },
+        // },
         {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
@@ -167,13 +167,13 @@ const skills = {
             color: "#CB3837",
           },
         },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
+        // {
+        //   skillName: "Yarn",
+        //   fontAwesomeClassname: "simple-icons:yarn",
+        //   style: {
+        //     color: "#2C8EBB",
+        //   },
+        // },
       ],
     },
     {
@@ -413,17 +413,17 @@ const experience = {
             "I worked as a Frontend Intern at Bharat Intern Pvt. Ltd., where I developed and optimized user interfaces for web applications. This role enhanced my skills in HTML, CSS, and JavaScript while contributing to real-world projects.",
           color: "#000000",
         },
-        {
-          title: "YAMAHA AI HACAKATHON 2.O",
-          company: "YAMAHA Motors India",
-          company_url: "https://www.yamaha-motor-india.com/",
-          logo_path: "yamaha_logo.png",
-          duration: "May 2022",
-          location: "Chitkara University, Himachal Pradesh",
-          description:
-            "I participated in the Yamaha AI 2.0 Hackathon as a first-year student, where I gained valuable insights into AI and ML by creating Grapes instances. Although I didn't win, but the experience significantly broadened my understanding of these technologies (AI/ML).",
-          color: "#ee3c26",
-        },
+        // {
+        //   title: "YAMAHA AI HACAKATHON 2.O",
+        //   company: "YAMAHA Motors India",
+        //   company_url: "https://www.yamaha-motor-india.com/",
+        //   logo_path: "yamaha_logo.png",
+        //   duration: "May 2022",
+        //   location: "Chitkara University, Himachal Pradesh",
+        //   description:
+        //     "I participated in the Yamaha AI 2.0 Hackathon as a first-year student, where I gained valuable insights into AI and ML by creating Grapes instances. Although I didn't win, but the experience significantly broadened my understanding of these technologies (AI/ML).",
+        //   color: "#ee3c26",
+        // },
       ],
     },
     {
@@ -440,17 +440,17 @@ const experience = {
             "Being an NSS volunteer I always feel proud of me that I got oppourtunity to connect with community and its problem.I also worked as a core member in NSS as Photo Documentation Head. Also attended 7 Days NSS camp with NSS founder Mr.Krishna Kumar Gupta.",
           color: "#4285F4",
         },
-        {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2023 - May 2024",
-          location: "Baddi, Himachal Pradesh",
-          description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-          color: "#D83B01",
-        },
+        // {
+        //   title: "Microsoft Student Partner",
+        //   company: "Microsoft",
+        //   company_url: "https://www.microsoft.com/",
+        //   logo_path: "microsoft_logo.png",
+        //   duration: "Aug 2023 - May 2024",
+        //   location: "Baddi, Himachal Pradesh",
+        //   description:
+        //     "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+        //   color: "#D83B01",
+        // },
         // {
         //   title: "Mozilla Campus Captain",
         //   company: "Mozilla",
@@ -538,8 +538,8 @@ const contactPageData = {
     locality: "Siwan",
     country: "India",
     region: "Bihar",
-    postalCode: "841439",
-    streetAddress: "Vill. Shekhpura PO. Chainpur PS. Goreakothi",
+    postalCode: "N/A",
+    streetAddress: "N/A",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://maps.app.goo.gl/wTZabHyV2wwdX7yk9",
   },
